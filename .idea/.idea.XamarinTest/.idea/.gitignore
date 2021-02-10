@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.XamarinTest.iml
+# Datasource local storage ignored files
+/../../../../../../../../../../../:\Users\tla\Documents\GitHub\PBA\AI Machine Learning\XamarinTest\.idea\.idea.XamarinTest\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
